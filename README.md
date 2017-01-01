@@ -1,2 +1,1 @@
-# typeScript
-First learing typeSciprt  
+tgg
